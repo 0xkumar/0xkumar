@@ -1,6 +1,6 @@
 ![masterHead](https://futurescot.com/wp-content/uploads/2021/07/shutterstock_1044058180-scaled.jpg)
 <h1 align="center">Hi 👋, I'm 0xkumar</h1>
-<h3 align="center">A passionate smartcontract developer from India</h3>
+<h3 align="center">Security Researcher</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xkumar&label=Profile%20views&color=0e75b6&style=flat" alt="0xkumar" /> </p>
