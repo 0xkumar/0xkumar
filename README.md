@@ -1,27 +1,29 @@
-![masterHead](https://futurescot.com/wp-content/uploads/2021/07/shutterstock_1044058180-scaled.jpg)
-<h1 align="center">Hi 👋, I'm 0xkumar</h1>
-<h3 align="center">Security Researcher</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
+## 0xkmr_ -   Security researcher specializing in Auditing Solana Programs
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xkumar&label=Profile%20views&color=0e75b6&style=flat" alt="0xkumar" /> </p>
+I can be contacted via:
 
-<p align="left"> <a href="https://twitter.com/0xkmr_" target="blank"><img src="https://img.shields.io/twitter/follow/0xkmr_?logo=twitter&style=for-the-badge" alt="0xkmr_" /></a> </p>
+- **X:** @0xkmr_
+- **Telegram:** https://t.me/MahammadKumar
 
-- 🌱 I’m currently learning **Ethereum Blockchain ,Foundry Framework**
 
-- 💬 Ask me about **Ethereum Blockchain**
+## 🏆 Public Contest
 
-- 📫 How to reach me **kumarkokkiligadda33@gmail.com**
+| Contest | Platform | Placement | Findings | Link | Language |
+|---|---|---|---|---|---|
+| Pump Science (Solana) | Code4rena |  5th Place | 1 H | [Link](https://code4rena.com/audits/2025-01-pump-science) | Solana, Rust |
+| Zeta Chain  | Sherlock | Processing | 1 H, 1 M | [Link](https://audits.sherlock.xyz/contests/857) | Go, Rust |
+|Aave V3 | Cantina | Processing| 1 Low, 1 info| [link](Processing)|Aptos, Move|
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/0xkmr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xkmr_" height="30" width="40" /></a>
-</p>
+## 💼 Professional Work
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+| Company | Project | Type | Date | Language |
+|---|---|---|---|---|
+| Entersoft | Ultrade | Cross chain protocol integrated with Warmhole | Sep 2024 | Solana , Rust|
+| Entersoft | Memetropolis | Cross chain protocol integrated with Layerzero | Dec 2024 | Solana,  Rust | 
+| Entersoft | AUDD Novatti | Solana Vault | Feb 2025| Solana, Rust |
+| Entersoft | Guardian Vara | Staking Protocol | Feb 2025| Vara network, Rust |
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xkumar&show_icons=true&locale=en&layout=compact" alt="0xkumar" /></p>
+## 🛠️ Technical Skills
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xkumar&" alt="0xkumar" /></p>
-
+**Programming Languages:** Rust, Move, Solidity  
+**Frameworks:** Anchor, Foundry  
