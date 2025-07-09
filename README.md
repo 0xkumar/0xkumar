@@ -11,7 +11,7 @@ I can be contacted via:
 | Contest | Platform | Placement | Findings | Link | Language |
 |---|---|---|---|---|---|
 | Pump Science (Solana) | Code4rena |  5th Place | 1 H | [Link](https://code4rena.com/audits/2025-01-pump-science) | Solana, Rust |
-| Zeta Chain  | Sherlock | Processing | 1 H, 1 M | [Link](https://audits.sherlock.xyz/contests/857) | Go, Rust |
+| Zeta Chain  | Sherlock |12th Place | 1 H, 1 M | [Link](https://audits.sherlock.xyz/contests/857) | Go, Rust |
 |Aave V3 | Cantina | Processing| 1 Low, 1 info| [link](Processing)|Aptos, Move|
 
 ## 💼 Professional Work
