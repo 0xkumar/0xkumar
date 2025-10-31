@@ -24,7 +24,7 @@ I can be contacted via:
 | Entersoft | Memetropolis | Cross chain protocol integrated with Layerzero | Dec 2024 | Solana,  Rust | 
 | Entersoft | AUDD Novatti | Solana Vault | Feb 2025| Solana, Rust |
 | Entersoft | Guardian Vara | Staking Protocol | Feb 2025| Vara network, Rust |
-|Entersoft| Somma | Initial coin offereing| Oct 2025 | Solana|
+|Entersoft| Somma | Initial coin offereing| Oct 2025 | Solana |
 
 ## 🛠️ Technical Skills
 
