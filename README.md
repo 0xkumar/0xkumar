@@ -19,7 +19,7 @@ I can be contacted via:
 ## 💼 Private Audits
 
 | Project | Type | Date | Language |
-|---|---|---|---|---|
+|---|---|---|---|
 | Ultrade | Cross chain protocol integrated with Warmhole | Sep 2024 | Solana , Rust|
 | Memetropolis | Cross chain protocol integrated with Layerzero | Dec 2024 | Solana,  Rust | 
 | AUDD Novatti | Solana Vault | Feb 2025| Solana, Rust |
