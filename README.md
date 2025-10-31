@@ -16,15 +16,15 @@ I can be contacted via:
 ||
 
 
-## 💼 Professional Work
+## 💼 Private Audits
 
-| Company | Project | Type | Date | Language |
+| Project | Type | Date | Language |
 |---|---|---|---|---|
-| Entersoft | Ultrade | Cross chain protocol integrated with Warmhole | Sep 2024 | Solana , Rust|
-| Entersoft | Memetropolis | Cross chain protocol integrated with Layerzero | Dec 2024 | Solana,  Rust | 
-| Entersoft | AUDD Novatti | Solana Vault | Feb 2025| Solana, Rust |
-| Entersoft | Guardian Vara | Staking Protocol | Feb 2025| Vara network, Rust |
-|Entersoft| Somma | Initial coin offereing| Oct 2025 | Solana |
+| Ultrade | Cross chain protocol integrated with Warmhole | Sep 2024 | Solana , Rust|
+| Memetropolis | Cross chain protocol integrated with Layerzero | Dec 2024 | Solana,  Rust | 
+| AUDD Novatti | Solana Vault | Feb 2025| Solana, Rust |
+| Guardian Vara | Staking Protocol | Feb 2025| Vara network, Rust |
+| Somma | Initial coin offereing| Oct 2025 | Solana |
 
 ## 🛠️ Technical Skills
 
