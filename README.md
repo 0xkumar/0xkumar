@@ -9,7 +9,7 @@ I can be contacted via:
 ## 🏆 Public Contest
 
 | Rank | Contest | Platform | Findings | Link | Language | Reward |
-| --- ||---|---|---|---|---| --- |
+| ---|---|---|---|---|---|---|
 | 4 ||Solayer-Bridge|Cantina| 1H 2M| [Link](https://cantina.xyz/code/0f543452-2076-438f-86ae-bbd6b065fffb/overview/leaderboard) | Solana | $ 2978 |
 | 5 || Pump Science | Code4rena | 1 H | [Link](https://code4rena.com/audits/2025-01-pump-science) | Solana | $ 1277 |
 | 12 || Zeta Chain  | Sherlock | 1 H, 1 M | [Link](https://audits.sherlock.xyz/contests/857) | Go, Rust | $ 960 |
