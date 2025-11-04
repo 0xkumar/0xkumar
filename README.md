@@ -10,7 +10,8 @@ I can be contacted via:
 
 | Contest | Platform | Placement | Findings | Link | Language | Reward |
 |---|---|---|---|---|---| --- |
-| Pump Science (Solana) | Code4rena |  5th Place | 1 H | [Link](https://code4rena.com/audits/2025-01-pump-science) | Solana, Rust | $ 1277 |
+|Solayer-Bridge|Cantina|4th Place| 1H 2M| [Link](https://cantina.xyz/code/0f543452-2076-438f-86ae-bbd6b065fffb/overview/leaderboard) | Solana | $2978|
+| Pump Science | Code4rena |  5th Place | 1 H | [Link](https://code4rena.com/audits/2025-01-pump-science) | Solana | $ 1277 |
 | Zeta Chain  | Sherlock |12th Place | 1 H, 1 M | [Link](https://audits.sherlock.xyz/contests/857) | Go, Rust | $ 960 |
 |Sui Dex|HackenProof|16th Place|1 Critical|[link](https://hackenproof.com/audit-programs/suidex-audit-contest?tab=hackers)|Sui, Move| $ 36 |
 ||
